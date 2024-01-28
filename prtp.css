@@ -1,0 +1,201 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+.nav-item .nav-link
+{
+	color: white!important;
+	font-size: 20px;
+}	
+.banner
+{
+	border: 2px solid #f2f2f2;
+	background: #f2f2f2;
+	height: 500px;
+}
+#p1
+{
+	font-size: 50px;
+	font-weight: bold;
+	color: #660066;
+}
+#btn1
+{
+	background: #660066;
+	color: white;
+
+	font-size: 15px;
+	border: 1px solid #660066;
+}
+#btn1:hover
+{
+	background: gold;
+	border: 1px solid gold;
+}
+
+.cards div
+{
+	background: white;
+	width: 100%;
+	border-radius: 15px;
+	box-shadow: 2px 4px 12px #660066;	
+	transition: transform 1s;
+	font-family: arial;
+	color:#666666;
+	z-index: -1;
+}
+h1
+{
+	text-align: center;  
+}
+.name
+{
+	color: black;
+}
+.cards img
+{
+	border-radius: 15px;
+	width: 100%;
+	height: 200px;
+}
+.cards p
+{
+	margin: 20px 20px;
+	font-size: 20px;
+}
+.cards div:hover
+{
+	transition: transform 1s;
+	transform: scale(1.1,1.1);
+}
+.fa-brands
+{
+	margin-left: 20px;
+}
+/*about*/
+.about
+{
+	width: 90%;
+	text-align: justify;
+	font-size: 20px;
+	font-weight: bold;
+	font-family:;
+	margin-left: 60px;
+}
+/*footer*/
+.ftdiv
+{
+	padding: 55px;
+	height: 310px;
+	margin-top: 100px;
+	color:white;
+	font-family: arial;
+	background: #660066;
+}
+.hdtext
+{
+	color: orange;
+	font-weight: bold;
+	font-size: 20px;
+}
+#i1:hover
+{
+	font-size:50px;
+	color: blue;
+}
+#i2:hover
+{
+	font-size:50px;
+	color: skyblue;
+}
+#i3:hover
+{
+	font-size:50px;
+	color: red;
+}
+#i4:hover
+{
+	font-size:50px;
+	color: deeppink;
+}
+.contact
+{
+	border: 2px solid white;
+	background: white;
+	height: 90px;
+	width: 100%;
+	box-shadow: 2px 2px 7px #666666;	
+	color:#660066;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.contact2
+{
+	border: 2px solid white;
+	background: white;
+	height: 50px;
+	width: 100%;
+	box-shadow: 2px 2px 7px #666666;	
+	color:gray;
+	font-size: 20px;
+	font-weight: bold;
+}
+.contact3
+{
+	border: 2px solid white;
+	background: white;
+	height: 50px;
+	width: 350px;
+	margin:50px 72px;
+	display: inline-block;	
+	font-weight: bold;
+}
+#btn2
+{
+	background: white;
+	color: black;
+	border-radius: 20px;
+	font-size: 20px;
+	border: 2px solid #660066;
+}
+#btn2:hover
+{
+	background: #660066;
+	border: 1px solid gold;
+	color: white;
+}
+.r1 
+{
+	font-weight: bold;
+	font-size: 20px;
+	color: gold;
+}
+.r2
+{
+	font-weight: bold;
+	font-size: 17px;
+	color: white;
+}
+
+#i1:hover
+{
+	font-size:30px;
+	color: blue;
+}
+#i2:hover
+{
+	font-size:30px;
+	color: skyblue;
+}
+#i3:hover
+{
+	font-size:30px;
+	color: deeppink;
+}
+#i4:hover
+{
+	font-size:30px;
+	color: red;
+}
